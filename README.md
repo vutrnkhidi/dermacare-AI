@@ -38,5 +38,5 @@ Phát hiện da mụn
 - Độ chính xác chưa cao  
 - Chatbot còn đơn giản  
 ---
-## Tác giả
-- (Tên bạn)
+## Information
+Vũ Trần Khải Di - 10A7 - Vinschool Times City - ICT 10 2025
